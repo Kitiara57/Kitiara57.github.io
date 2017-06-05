@@ -1,0 +1,29 @@
+body{
+  background-image: url("Fondo.jpg") ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: black;
+  
+
+}
+#titulo{
+  margin-left: 10em;
+  margin-right: 20em;
+  color: white;
+}
+#caja1{
+	margin-left: 15em;
+	margin-right: 20em;
+}
+td{
+ background: #66CDAA;
+ border-color: #008080;
+
+}
+.Videos{
+	display: block;
+	margin: 0 auto;
+	padding: 2cm;
+}
+
