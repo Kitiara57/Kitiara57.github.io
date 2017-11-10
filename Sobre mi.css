@@ -4,11 +4,9 @@ body{
   background-attachment: fixed;
   background-size: cover;
   background-color: black;
-  
-
 }
 #titulo{
-  margin-left: 10em;
+  margin-left: 18em;
   margin-right: 20em;
   color: white;
 }
@@ -18,8 +16,8 @@ body{
 }
 td{
  background: #66CDAA;
- border-color: #008080;
-
+ border-color: #008080; 
+ font-size: x-large;
 }
 #caja2{
 	margin-top: 10em;
