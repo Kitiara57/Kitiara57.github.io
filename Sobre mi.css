@@ -6,9 +6,9 @@ body{
   background-color: black;
 }
 #titulo{
-  margin-left: 18em;
-  margin-right: 20em;
+ 
   color: white;
+  text-align: center;
 }
 #caja1{
 	margin-left: 20em;
