@@ -4,6 +4,14 @@ body{
   background-attachment: fixed;
   background-size: cover;
   background-color: black;
+  bottom: 0;
+  display: block;
+  left: 0;
+  margin: auto;
+  min-height: 50%;
+  min-width: 50%;
+  right: 0;
+  top: 0;
   
 
 }
